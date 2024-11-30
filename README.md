@@ -82,4 +82,7 @@ The **Money Tracker** app helps users manage and track their financial transacti
 1. Click the **Show Graph** button to view a graph of your spending.
 2. The graph displays daily spending trends, and you can filter by date using the **Select Date** button.
 
+   ###note : works currently only for bank of baroda you can change the regex logic for your bank
+   
+
 
